@@ -12,5 +12,5 @@ Las clases se dictarán en un laboratorio virtual local ubicado en el instituto.
 
 
 
-!!! warning "Atención"
-	Sitio en construcción
+warning "Atención" !!! !!! 
+	Sitio en construcción, por lo tanto, no este molestando.
